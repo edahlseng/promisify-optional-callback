@@ -1,6 +1,6 @@
 {
   "name": "promisify-optional-callback",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Converts a callback function into a callback + promisify function",
   "main": "index.js",
   "license": "MIT",
